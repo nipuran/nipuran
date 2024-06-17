@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Typing](https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif)
+
 <!--
 **nipuran/nipuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
