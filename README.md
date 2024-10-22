@@ -1,6 +1,4 @@
-### Hi there, I code
-
-<img src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif" alt="I am typing" width="280" height="200">
+### Hi there
 
 <!--
 **nipuran/nipuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
